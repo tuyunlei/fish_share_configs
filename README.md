@@ -1,1 +1,2 @@
-# fish_share_configs
+# fish share configs
+
